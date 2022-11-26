@@ -7,7 +7,7 @@ module.exports = {
                   <i class="fa-brands fa-linkedin fact-icon"></i>Mukhammadzhon 
                 </a>`,
     'Phone': `<a href="telto:+996555004345"><i class="fa-brands fa-phone fact-icon"></i>+996555004345</a>`,
-    'Email': '<a href="mailto:hmuhammadjon@gmail.com"><i class="fa fa-envelope fact-icon"></i>hmuhammadjon@gmail.com</a>'
+    'Email': '<a href="mailto:hmuhammadjon@gmail.com"><i class="fa fa-envelope fact-icon"></i>hmuhammadjon</a>'
   },
   skills: [
     ['English', 100],
