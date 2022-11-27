@@ -6,7 +6,7 @@ module.exports = {
     'Linkedin': `<a href="www.linkedin.com/in/mukhammadzhon">
                   <i class="fa-brands fa-linkedin fact-icon"></i>Mukhammadzhon 
                 </a>`,
-    'Phone': `<a href="telto:+996555004345"><i class="fa-brands fa-phone fact-icon"></i>+996555004345</a>`,
+    'Phone': `<a href="telto:+996555004345"><i class="fa-fa fa-phone fact-icon"></i>+996 (555) 00 43 45</a>`,
     'Email': '<a href="mailto:hmuhammadjon@gmail.com"><i class="fa fa-envelope fact-icon"></i>hmuhammadjon</a>'
   },
   skills: [
