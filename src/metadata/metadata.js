@@ -14,62 +14,54 @@ module.exports = {
       '<a href="mailto:hmuhammadjon@gmail.com"><i class="fa fa-envelope fact-icon"></i>hmuhammadjon</a>',
   },
   skills: [
-    ["English"],
-    ["Russian"],
-    ["Turkish"],
     ["HTML"],
     ["CSS"],
     ["JavaScript"],
     ["React"],
     ["SPA"],
     ["Github"],
+    ["English"],
+    ["Turkish"],
+    ["Russian"],
   ],
   positions: [
     {
-      company: "Bilato",
-      location: "Chicago, US",
-      title: "Dispatcher",
-      period: "02/2021 – 10/2022",
+      company: "Bi-Soft",
+      location: "Osh, Kyrgyz Republic",
+      title: "Trainee",
+      period: "10/2022 - Current",
       skills: [
-        "Fluent English",
-        "Russian",
-        "Turkish",
-        "Communication",
-        "Customer service",
-        "Team work",
+        "Good knowledge of HTML5, CSS3, Javascript and Git",
+        "Strong communication skills",
+        "Well organized team player",
       ],
       contents: `
-      Bilato holding takes leading position on delivering freight over USA and services 24/7 over 200 trucks and truck drivers.
+      Bi-Soft Ltd takes leading position in Kyrgyzstan market.
 
-      As a dispatcher I'm responsible for:
+      As a Trainee my task is:
 
-      * Scheduling truck drivers time and route
-      * Monitoring pick-up, transit and drop off process of the loads
-      * Solving unexpected issues 
-      * Quick response for drivers requests
+      * Analyze the code structure
+      * Maintain software specifications	
+      * Work closely with other developers 
+      * Accomplish tasks which was given by teamlead
+      * Write clear and consistent code
       `,
     },
     {
-      company: "Mukum Auto",
-      location: "Osh, Kyrgyz Republic",
-      title: "Sales Manager",
-      period: "03/2017 – 01/2021",
-      skills: [
-        "Analytical skills",
-        "Customer service",
-        "Detailing",
-        "product delivery",
-      ],
+      company: "Author K. Dmitriy",
+      title: "Way of Samurai project",
+      period: "11/2022 - present",
       contents: `
       
-      Mukum Auto has history in auto market over 20 years
+      Way of Samurai is a replica of social media paltform 
 
-      Responsibilities:
+      As a lerner I'm:
 
-      * Searching cars for purchase
-      * Diognosing and repairing
-      * Preparing for Sales
-      * Dealing with potential buyers face to face and over phone      
+      * Studying framework React 
+      * Practicing HTML, CSS and JS
+      * Writing code on VS Code editor 
+      * Learning to devide into components 
+      * Building the structure from scratches
       `,
     },
   ],
