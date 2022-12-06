@@ -28,7 +28,7 @@ module.exports = {
     {
       company: "Bi-Soft",
       location: "Osh, Kyrgyz Republic",
-      title: "Trainee",
+      title: "Intern",
       period: "10/2022 - Current",
       skills: [
         "Good knowledge of HTML5, CSS3, Javascript and Git",
@@ -61,7 +61,7 @@ module.exports = {
       * Practicing HTML, CSS and JS
       * Writing code on VS Code editor 
       * Learning to devide into components 
-      * Building the structure from scratches
+      * Rebuilding the project from scratches
       `,
     },
   ],
